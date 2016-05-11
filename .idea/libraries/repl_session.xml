@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="repl-session">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/code/ch09/sec05/repl-session.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
