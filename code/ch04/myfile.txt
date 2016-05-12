@@ -1,0 +1,242 @@
+
+Machine Learning
+10-701/15-781, Spring 2011
+Carnegie Mellon University
+Tom Mitchell
+
+
+
+Home
+ People
+ Lectures
+ Recitations
+ Homeworks
+ Project
+ Previous material
+
+
+
+Date Lecture Topics Readings and useful links Handouts
+Jan 11  Intro to ML
+Decision Trees
+Slides
+
+video  Machine learning examples
+Well defined machine learning problem
+Decision tree learning
+ Mitchell: Ch 3
+Bishop: Ch 14.4
+The Discipline of Machine Learning
+Jan 13  Decision Tree learning
+
+Review of Probability
+
+Annotated slides
+
+video  The big picture
+Overfitting
+Random variables, probabilities
+ Andrew Moore's Basic Probability Tutorial
+Bishop: Ch. 1 thru 1.2.3
+Bishop: Ch 2 thru 2.2  HW1 out Jan 14
+Jan 18 Probability and Estimation
+
+Annotated slides
+
+video  Bayes rule
+MLE
+MAP
+ Andrew Moore's Basic Probability Tutorial
+Bishop: Ch. 1 thru 1.2.3
+Bishop: Ch 2 thru 2.2
+Jan 20 Naive Bayes
+
+Annotated slides
+
+video  Conditional independence
+Multinomial Naive Bayes
+ Mitchell: Naive Bayes and Logistic Regression
+Jan 25 Gaussian Naive Bayes
+Slides
+Annotated Slides
+
+video  Gaussian Bayes classifiers
+Document classification
+Brain image classification
+Form of decision surfaces
+ Mitchell: Naive Bayes and Logistic Regression  HW1 due
+HW2 out
+Jan 27 Logistic Regression
+
+Slides
+Annotated slides
+
+video  Naive Bayes - the big picture
+Logistic Regression: Maximizing conditional likelihood
+Gradient ascent as a general learning/optimization method
+ Mitchell: Naive Bayes and Logistic Regression
+
+Ng & Jordan: On Discriminative and Generative Classifiers, NIPS, 2001.
+Feb 1 Linear Regression
+
+Slides
+Annotated slides
+
+video  Generative/Discriminative models
+minimizing squared error and maximizing data likelihood
+bias-variance decomposition
+regularization
+
+Feb 3 Practical Issues
+
+ Feature selection
+Overfitting
+Bias-Variance tradeoff
+
+Feb 8 Graphical models 1
+Annotated slides
+
+video  Bayes nets
+representing joint distributions with conditional independence assumptions
+ Bishop: Ch 8, through 8.2  HW3 out
+Feb 15 Graphical models 2
+slides
+video  D-separation and Conditional Independence
+Inference
+Learning from fully observed data
+Learning from partially observed data
+
+Feb 17 Graphical models 3
+
+annotated slides
+video  EM
+ EM and HMM tutorial J. Bilmes
+Feb 22 Graphical models 4
+annotated slides
+video
+ Mixture of Gaussians clustering
+Learning Bayes Net structure - Chow Liu
+ Intro. to Graphical Models, K. Murphy
+Graphical Models tutorial, M. Jordan
+ HW3 due
+HW4 out
+Feb 24 Computational
+Learning
+Theory
+annotated slides
+video  PAC Learning
+ Mitchell: Ch. 7
+Mar 1 Midterm Review
+PAC learning slides
+midterm review slides
+video    HW4 due
+Mar 3 Midterm Exam in class
+open notes, open book, no internet
+  Midterm
+Solution
+Mar 15 Computational
+Learning
+Theory
+annotated slides
+video  Mistake bounds
+Weighted Majority Algorithm
+ Mitchell: Ch. 7
+Mar 17 Semi-Supervised
+Learning
+slides: CoTraining
+NELL
+video  CoTraining / Multi-view Learning
+Never ending learning (NELL)
+ Cotraining: Blum & Mitchell
+NELL: Carlson et al., 2010
+
+Mar 22 Hidden Markov Models
+annotated slides
+
+ Markov models
+HMM's and Bayes Nets
+Other probabilistic time series models
+ Bishop Ch. 13
+Mar 24 Neural Networks
+slides
+
+video  Non-linear regression
+Backpropagation and Gradient descent
+Learning hidden layer representations
+ Mitchell Ch. 4
+Bishop Ch. 5  Project proposals due
+Mar 29 Learning Representations I
+slides
+
+video  Artificial neural networks
+PCA
+ Bishop Ch. 12 through 12.1
+A Tutorial on PCA, J. Schlens
+SVD and PCA, Wall et al.
+
+Mar 31 Learning Representations II
+slides
+
+video  Deep belief networks
+ICA
+CCA
+ Deep Belief Nets paper, Hinton & Salakhutdinov
+CCA Tutorial, M. Borga
+
+Apr 5 Learning Representations III
+slides
+
+video  Fisher Linear Discriminant
+Latent Dirichlet Allocation
+Intro to Kernel Functions
+ Bishop Ch. 6.1 (required)
+Bishop Ch. 6.2, 6.3 (optional)
+Apr 7 Kernel Methods and SVM's
+slides
+
+video  Regression: Primal and Dual forms
+Kernels and Kernel Regression
+SVMs
+ Bishop Ch. 6.1
+Bishop Ch. 7, through 7.1.2
+Apr 12 SVM's II
+slides
+
+video  Maximizing the margin
+Noise and soft margin SVM's
+PAC learning and SVM's
+Hinge loss, log loss, 0-1 loss
+ Bishop Ch. 7, through 7.1.2  Project midway report due
+Apr 14  No CMU classes today
+Apr 19 Active Learning
+slides
+
+video  Guest lecture: Dr. Burr Settles
+Uncertainty sampling
+Query by committee
+ Settles: Active learning survey
+Apr 21 ML in Computational Biology
+slides
+
+video  Guest lecture: Prof. Ziv Bar-Joseph
+Apr 26 Reinforcement Learning I
+slides
+
+video  Markov Decision Processes
+Value Iteration
+Q learning
+ Kaelbling et al.: Reinforcement Learning: A Survey
+Apr 28 Reinforcement Learning 2
+RL slides
+Final study guide
+
+video  Q learning in non-deterministic domains
+RL as model for learning in animals
+Final exam review
+
+May 6 (Friday) Final Exam 1-4pm
+Location: Gates Hillman 4401
+open notes, open book, no internet
+ Final study guide
+
+
