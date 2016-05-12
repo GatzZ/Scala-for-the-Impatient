@@ -8,6 +8,18 @@ class Counter {
 
 }
 
+val myCounter: Counter = new Counter
+//myCounter.current() // () not ok
+println(myCounter.value)
+
+//object ScalaApp {
+//  def main(args: Array[String]) {
+//    val myCounter: Counter = new Counter
+//    //myCounter.current() // () not ok
+//    println(myCounter.value)
+//  }
+//}
+
 //val myCounter = new Counter
 //myCounter.increment()
 //println(myCounter.current)
