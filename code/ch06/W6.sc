@@ -106,3 +106,5 @@ object RGBCube extends Enumeration {
 for( c <- RGBCube.values ) println("0x%06x: %s".format(c.id, c))
 
 
+
+
